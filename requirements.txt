@@ -1,0 +1,29 @@
+numpy
+scipy
+pandas<=2.1.4  # Avoid an annoying deprecation warning in 2.2.0
+
+statsmodels
+scikit-learn
+scikit-optimize
+yellowbrick
+imblearn
+ydata_profiling
+skimpy
+
+matplotlib
+seaborn
+
+opencv-python
+pillow
+# scikit-image
+
+# soundfile
+# sounddevice
+# ffmpeg-python
+
+ipython
+ipykernel
+jupyter
+black[jupyter]
+pylint
+gitpython
